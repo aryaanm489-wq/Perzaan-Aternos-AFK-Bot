@@ -2,7 +2,7 @@
   "name": "AFK Bot",
   "bot-account": {
     "username": "24_7BOT",
-    "password": "amaarsha",
+    "password": "/login amaarsha",
     "type": "offline"
   },
   "server": {
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Perzaan Gaming!",
-        "I like to play Minecraft!"
+        "aarizuggs",
+        "Waleedmirggs",
+        "aryanshahehe"
       ]
     },
     "chat-log": true,
