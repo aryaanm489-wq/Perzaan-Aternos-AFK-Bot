@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "24_7BOT",
-    "password": "/login amaarsha",
+    "username": "PerzuBhai",
+    "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": " NiggrSmp.aternos.me",
+    "ip": "NiggrSmp.aternos.me",
     "port": 48774,
     "version": "1.21.1",
     "try-creative": false
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": "amaarsha"
     },
     "anti-afk": {
       "enabled": true,
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "aarizuggs",
-        "Waleedmirggs",
-        "aryanshahehe"
+        "AARIZUGGS",
+        "WALEEDMIRGGS",
+        "ARYANSHAHEHE"
       ]
     },
     "chat-log": true,
